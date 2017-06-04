@@ -16,3 +16,4 @@ All the routes in the output could only be horizontal lines and vertical lines. 
 # Usage
 
 # REMARK
+This is a homework of Algorithm Lesson NTUST 2017 fall semester. By using Dijkstra shortest path algorithm and some BFS techique.
